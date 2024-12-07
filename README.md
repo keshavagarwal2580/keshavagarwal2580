@@ -57,7 +57,8 @@
 
 ---
 
-### ⚒️ Projects
+<!--
+-  ### ⚒️ Projects
 
 | S.No | Project Name | tags | Demo Link |Code Link |
 | ---  | ------------ | ---- | --- |--- |
@@ -68,7 +69,7 @@
 | 5    | Space War Game       | `andoid` ||[link](https://github.com/sailesh307/space-war-game)
 | 6    | SMS encryption app   | `andoid` ||[link](https://github.com/sailesh307/sms-encryption-app)
 | 7    | MBTI Personality predictor | `Machine Learning` ||[link](https://github.com/sailesh307/Personality-Prediction-Using-MBTI)
-
+-->
 
 
 <!-- Stats -->
@@ -81,7 +82,6 @@
 </p>
 
 <h2 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h2>
-
 <!---
 sailesh307/sailesh307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
